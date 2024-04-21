@@ -1,2 +1,10 @@
 # What's this?
 theme: jekyll-theme-minimal
+# Site
+title: Hexo
+subtitle: ''
+description: ''
+keywords:
+author: John Doe
+language: en
+timezone: ''
