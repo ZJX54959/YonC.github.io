@@ -1,10 +1,10 @@
 # What's this?
 theme: jekyll-theme-minimal
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: YonC
+subtitle: 'subtitle here'
+description: 'description'
+keywords:What are the keywords?
+author: Z959
+language: zh
 timezone: ''
