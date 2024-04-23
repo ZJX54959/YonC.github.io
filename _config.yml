@@ -1,10 +1,10 @@
 # What's this?
-theme: jekyll-theme-minimal
+#theme: jekyll-theme
 # Site
 title: YonC
 subtitle: 'subtitle here'
 description: 'description'
-keywords: 111
+#keywords: 111
 author: Z959
 language: zh
 timezone: ''
